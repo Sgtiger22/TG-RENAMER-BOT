@@ -7,7 +7,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/Sgtiger22/TG-RENAMER-BOT#deploy-to-heroku-)
 
 [Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
 
